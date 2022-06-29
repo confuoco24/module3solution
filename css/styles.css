@@ -1,0 +1,27 @@
+*{
+	font-family: Comic Sans, sans-serif;
+
+}
+
+#header-nav{
+	background-color: grey;
+	border-color: black;
+	border: thick;
+	height: 80px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus, .navbar-brand a{
+	text-decoration: none;
+	style: bold;
+	color:  black;
+}
+
+
+h2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.box{
+	background-color: gray;
+}
