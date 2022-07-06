@@ -1,12 +1,12 @@
 *{
 	font-family: Comic Sans, sans-serif;
+	box-sizing: border-box;
 
 }
 
 #header-nav{
 	background-color: grey;
-	border-color: black;
-	border: thick;
+	border-bottom: solid;
 	height: 80px;
 }
 
@@ -17,11 +17,17 @@
 }
 
 
+
 h2{
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
+
 .box{
-	background-color: gray;
+	background-color: lightgrey;
+	margin: 30px;
+	padding: 0px 0px 0px 10px;
+	border-style: solid;
+	border-color: solid black;
 }
