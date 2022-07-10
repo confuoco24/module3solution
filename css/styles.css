@@ -18,9 +18,31 @@
 }
 
 
-#navbar-nav{
-	style: bold;
-	color:  black;
+.navbar-nav{
+	text-align: center;
+	font-size: 20px;
+}
+
+.menu-item{
+	color: black;
+	style:  bold;
+}
+
+
+li{
+	background-color: lightgrey;
+	width: 100%;
+	border: 1px solid black
+}
+
+
+.navbar-toggle{
+	border: 2px solid black;
+	margin-right: 25px;
+}
+
+.icon-bar{
+	background-color: black;
 }
 
 
